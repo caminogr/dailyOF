@@ -1,0 +1,7 @@
+obj/
+
+*/bin/*
+*/bin/data/Apple Color Emoji.ttc
+!*/bin/data
+
+*/*.xcodeproj/*
